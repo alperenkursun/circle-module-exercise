@@ -1,4 +1,4 @@
-# module-exercise
+# circle-module-exercise
 
 Module JS - Node.js Exercise
 
